@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Randall Ni’s Website",
+    "section": "",
+    "text": "Welcome to my website! I am a third year student in the Bachelor of Information program focusing on user experience design.\nI strongly advocate for human centred design methods, and I love long walks to my fridge. Currently seeking 2023 summer opportunities!"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of the data science projects that I have created includes:\n\nExamining Police Expenditure and Rate of Major Crime, which is an R package about Toronto police expenditure and rate of solved major crimes.\nThe Differences between the 1918 Influenza and COVID-19 Pandemic, which is an R package examining the differences between the Influenza data and COVID-19 data."
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have created includes:
+
+
+- [Examining Police Expenditure and Rate of Major Crime](https://github.com/randalln1140/Examining-Police-Expenditure-and-Rate-of-Major-Crime), which is an R package about Toronto police expenditure and rate of solved major crimes.
+- [The Differences between the 1918 Influenza and COVID-19 Pandemic](https://github.com/randalln1140/1918-INFLUENZA-PANDEMIC-COVID-19), which is an R package examining the differences between the Influenza data and COVID-19 data. 

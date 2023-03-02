@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Randall Ni"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: Randall Ni Resume.pdf
+        text: CV
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
